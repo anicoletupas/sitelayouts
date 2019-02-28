@@ -1,0 +1,31 @@
+/* Add site styles here */
+body {
+  background-color: #f08cae;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+header {
+  background-color: #e06299;
+  border: 5px solid #ce2d4f;
+  color: #f2b8d3;
+  text-align: center;
+}
+
+ul {
+  list-style-type: circle;
+}
+
+li {
+  background: #f2b8d3;
+  padding: 5px;
+}
+
+a {
+  color: #ce2d4f;
+}
+
+a:hover {
+  background-color: #f08cae;
+}
